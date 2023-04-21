@@ -1,0 +1,18 @@
+{
+  "products":[
+    {
+      "id":1,
+      "title": "catafest - title 1",
+      "description": "Description 1",
+      "size": 100,
+      "img":"https://media.sketchfab.com/avatars/921fe814558f4b63b288ba4dbf184459/ec702d763c1c4a7d90b2eb8a65d026cc.jpeg"
+    },
+    {
+      "id":1,
+      "title": "catafest - title 2",
+      "description": "Description 2",
+      "size": 150,
+      "img":"https://media.sketchfab.com/avatars/921fe814558f4b63b288ba4dbf184459/ec702d763c1c4a7d90b2eb8a65d026cc.jpeg"
+    }
+  ]
+}
